@@ -1,0 +1,65 @@
+User story:
+Once upon a time, in a small town, a visionary company decided to build a new factory, which can make ecological fuel from microplastics gathered from the ocean. They had acquired a piece of land and were eager to create not just a factory, but an ecological community for their employees. In the beginning, the factory would employ twenty people: Two in management, one in marketing, five in research and development, eight factory workers, a janitor, a cleaner, and two kitchen staff.
+ 
+The company wanted to ensure that their employees and their families would have everything they needed. So, they planned to build apartments for those who needed temporary housing. to accommodate different needs and preferences. They also planned to build a grocery store, health care, a daycare and a sports center to make the workplace attractive for families.
+ 
+The company was committed to sustainability. They wanted work and living environments to be as ecologically sustainable as possible. They believed that a green, self-sufficient community would not only attract employees but also ensure they stayed happy and healthy.
+ 
+The project had a tight timeline. The company aimed to have everything ready in about 12 weeks. They knew it was ambitious, but they were determined to make it happen. They believed that with careful planning and hard work, they could create a thriving, sustainable community that would be a model for others to follow.
+
+
+
+
+Product Backlog:
+Priority: ecological and sustainability.
+    → Accommodation
+    → A grocery Store
+    → Healthcare
+    → Sportcenter/yoga center
+    → A green environment throughout the 12 weeks
+
+Sprint 1: Accommodation
+Planning:
+    We will building house, apartment for everyone,... time in … time
+    Build temporary houses for workers → while waiting to build apartments.
+    Planning to set up the electric lines, water pipes, and waste management areas. 
+    The area will be next to the factory for the convenience of workers.
+    To ensure security, the housing will be in a gated community
+Development work:
+    Prepare the construction site.
+    Build temporary housing first.
+    Install basic electricity and water systems.
+Review:
+    The area shouldn’t be next to the factory, it is too unhealthy to live in an environment with bad air quality → Will affect workers' performance. Suggest: Move the area into a different place which is surrounded with nature → Healthier living standard → Boost worker’s performance.
+Sprint 2: Grocery Store
+Planning: 
+    We will apply food, appliances and electronic equipment → apply enough food for everyone in the city.
+    Grocery stores will be built in many places in the city and countryside, providing people around with convenience and adequate necessities when there are grocery stores nearby.
+    Plan to establish more food stalls as well as provide more necessities such as electronics and machinery for consumers.
+Development Work: 
+    First thing: to provide adequate food. First we need to transport tons of food and equipment to grocery stores into inhabited areas. This will fully meet the needs of consumers in places with grocery stores.
+    Second thing: We should also hire storekeepers, we need two or three people to enter the grocery store to run the store in every city or countryside, enough workforce in each store can expand the chain to other places.
+    Finally, to establish more stores, we need to ensure enough income to achieve high results by creating a comfortable shopping environment for everyone. When we meet those requirements, we can establish more stores in many other places as well as thereby providing more needs to consumers when we have expanded.
+Review:
+    Grocery stores meet the basic needs.
+    Need more organic and eco-friendly food options.
+    Suggest adding an automated inventory management system to reduce waste.
+Sprint 3: Healthcare
+Planning:
+    We will provide many hospitals as well as many pharmacies for surrounding people, this will ensure the health of everyone around as they do not need to travel too far to the hospital if they have any problems.
+    Reduce treatment costs for the elderly and children. These two groups of people will be given priority in reducing treatment costs when they go for medical examination, making these two groups more proactive in going for medical examination and treatment whenever they have health problems.
+    In addition, we need to maintain good hygiene, not causing problems related to pollution, which can help each person's health become healthier.
+Development Work: 
+    We 
+Sprint 4: Sportscenter / Yoga 
+Planning:
+    For the support center we need to buy all the important gym machinery and some mandatory equipment like the deadlift belt .
+    We need to hire the loader truck that transfers the machinery from the store toward the sportscenter . 
+    We need to install the attendance machine through which everyone enrolled and when he join the gym their presence is recorded .
+    For Yoga we need a professional trainer and the system of enrollment also has a fixed timing so everyone can do exercises under the guidance of the trainer.
+Develop work:
+    Install gym equipment in the center.
+    Test for safety and set up maintenance.
+    Implement attendance system with card/QR scanning.
+    Create a fixed yoga schedule and online registration system.
+Review:
