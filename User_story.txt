@@ -50,7 +50,9 @@ Planning:
     Reduce treatment costs for the elderly and children. These two groups of people will be given priority in reducing treatment costs when they go for medical examination, making these two groups more proactive in going for medical examination and treatment whenever they have health problems.
     In addition, we need to maintain good hygiene, not causing problems related to pollution, which can help each person's health become healthier.
 Development Work: 
-    We 
+    To be able to provide more hospitals as well as pharmacies for everyone, we need to ensure that both of their incomes are sufficient or increased. To do that, we will encourage people to go to the doctor more when they have physical problems by offering many discounts if they come regularly.
+    Reducing medical examination and treatment costs for the elderly and children can both increase revenue for the hospital and thereby expand more facilities around while ensuring the health of these two groups of people.
+    Finally, to keep the environment clean, we should dump trash in the right place, plant many trees, and actively take public transportation to limit emissions from escaping into the environment.
 Sprint 4: Sportscenter / Yoga 
 Planning:
     For the support center we need to buy all the important gym machinery and some mandatory equipment like the deadlift belt .
@@ -63,3 +65,6 @@ Develop work:
     Implement attendance system with card/QR scanning.
     Create a fixed yoga schedule and online registration system.
 Review:
+Sprint 5: A green environment throughout the 12 weeks
+Planning:
+
