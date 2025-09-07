@@ -1,11 +1,19 @@
 User story:
-Once upon a time, in a small town, a visionary company decided to build a new factory, which can make ecological fuel from microplastics gathered from the ocean. They had acquired a piece of land and were eager to create not just a factory, but an ecological community for their employees. In the beginning, the factory would employ twenty people: Two in management, one in marketing, five in research and development, eight factory workers, a janitor, a cleaner, and two kitchen staff.
+Once upon a time, in a small town, a visionary company decided to build a new factory, which can make ecological fuel from microplastics
+gathered from the ocean. They had acquired a piece of land and were eager to create not just a factory, but an ecological community for
+their employees. In the beginning, the factory would employ twenty people: Two in management, one in marketing, five in research and
+development, eight factory workers, a janitor, a cleaner, and two kitchen staff.
  
-The company wanted to ensure that their employees and their families would have everything they needed. So, they planned to build apartments for those who needed temporary housing. to accommodate different needs and preferences. They also planned to build a grocery store, health care, a daycare and a sports center to make the workplace attractive for families.
+The company wanted to ensure that their employees and their families would have everything they needed. So, they planned to build
+apartments for those who needed temporary housing. to accommodate different needs and preferences. They also planned to build a grocery
+store, health care, a daycare and a sports center to make the workplace attractive for families.
  
-The company was committed to sustainability. They wanted work and living environments to be as ecologically sustainable as possible. They believed that a green, self-sufficient community would not only attract employees but also ensure they stayed happy and healthy.
+The company was committed to sustainability. They wanted work and living environments to be as ecologically sustainable as possible.
+They believed that a green, self-sufficient community would not only attract employees but also ensure they stayed happy and healthy.
  
-The project had a tight timeline. The company aimed to have everything ready in about 12 weeks. They knew it was ambitious, but they were determined to make it happen. They believed that with careful planning and hard work, they could create a thriving, sustainable community that would be a model for others to follow.
+The project had a tight timeline. The company aimed to have everything ready in about 12 weeks. They knew it was ambitious, but they
+were determined to make it happen. They believed that with careful planning and hard work, they could create a thriving, sustainable
+community that would be a model for others to follow.
 
 Product Backlog:
 Priority: ecological and sustainability.
@@ -26,7 +34,10 @@ Development work:
     - Build temporary housing first.
     - Install basic electricity and water systems.
 Review:
-    - The area shouldn’t be next to the factory, it is too unhealthy to live in an environment with bad air quality → Will affect workers' performance. Suggest: Move the area into a different place which is surrounded with nature → Healthier living standard → Boost worker’s performance.
+    - The area shouldn’t be next to the factory, it is too unhealthy to live in an environment with bad air quality → Will affect workers'
+    performance. Suggest: Move the area into a different place which is surrounded with nature → Healthier living standard → Boost worker’s
+    performance.
+
 Sprint 1b: Relocation of Accommodation 
 Planning:
     - Select a new location for the housing area in a greener environment, away from factory pollution.
@@ -39,15 +50,30 @@ Review:
     - The new location is healthier and meets sustainability goals.
     - Need more green energy in the construction plan.
 
+Sprint 1c: Install green energy for accommodation
+Planning:
+    - Install solar panels on the rooftop of new apartments.
+    - Train maintenance staff on how to operate and repair renewable energy.
+Development work:
+    - Receive and install solar panels from the supplier.
+    - Connect solar panels to the building’s electric grid and backup storage.
+Review:
+    - Solar panels installed and operated successfully. 
+
 Sprint 2a: Grocery Store
 Planning: 
     - We will apply food, appliances and electronic equipment → apply enough food for everyone in the city.
-    - Grocery stores will be built in many places in the city and countryside, providing people around with convenience and adequate necessities when there are grocery stores nearby.
+    - Grocery stores will be built in many places in the city and countryside, providing people around with convenience and adequate
+    necessities when there are grocery stores nearby.
     - Plan to establish more food stalls as well as provide more necessities such as electronics and machinery for consumers.
 Development Work: 
-    - First thing: to provide adequate food. First we need to transport tons of food and equipment to grocery stores into inhabited areas. This will fully meet the needs of consumers in places with grocery stores.
-    - Second thing: We should also hire storekeepers, we need two or three people to enter the grocery store to run the store in every city or countryside, enough workforce in each store can expand the chain to other places.
-    - Finally, to establish more stores, we need to ensure enough income to achieve high results by creating a comfortable shopping environment for everyone. When we meet those requirements, we can establish more stores in many other places as well as thereby providing more needs to consumers when we have expanded.
+    - First thing: to provide adequate food. First we need to transport tons of food and equipment to grocery stores into inhabited areas.
+    This will fully meet the needs of consumers in places with grocery stores.
+    - Second thing: We should also hire storekeepers, we need two or three people to enter the grocery store to run the store in every city
+    or countryside, enough workforce in each store can expand the chain to other places.
+    - Finally, to establish more stores, we need to ensure enough income to achieve high results by creating a comfortable shopping environment
+    for everyone. When we meet those requirements, we can establish more stores in many other places as well as thereby providing more needs to
+    consumers when we have expanded.
 Review:
     - Grocery stores meet the basic needs.
     - Need more organic and eco-friendly food options.
@@ -65,19 +91,29 @@ Review:
 
 Sprint 3: Healthcare
 Planning:
-    - We will provide many hospitals as well as many pharmacies for surrounding people, this will ensure the health of everyone around as they do not need to travel too far to the hospital if they have any problems.
-    - Reduce treatment costs for the elderly and children. These two groups of people will be given priority in reducing treatment costs when they go for medical examination, making these two groups more proactive in going for medical examination and treatment whenever they have health problems.
-    - In addition, we need to maintain good hygiene, not causing problems related to pollution, which can help each person's health become healthier.
+    - We will provide many hospitals as well as many pharmacies for surrounding people, this will ensure the health of everyone around as they
+    do not need to travel too far to the hospital if they have any problems.
+    - Reduce treatment costs for the elderly and children. These two groups of people will be given priority in reducing treatment costs when
+    they go for medical examination, making these two groups more proactive in going for medical examination and treatment whenever they have
+    health problems.
+    - In addition, we need to maintain good hygiene, not causing problems related to pollution, which can help each person's health become
+    healthier.
 Development Work: 
-    - To be able to provide more hospitals as well as pharmacies for everyone, we need to ensure that both of their incomes are sufficient or increased. To do that, we will encourage people to go to the doctor more when they have physical problems by offering many discounts if they come regularly.
-    - Reducing medical examination and treatment costs for the elderly and children can both increase revenue for the hospital and thereby expand more facilities around while ensuring the health of these two groups of people.
-    - Finally, to keep the environment clean, we should dump trash in the right place, plant many trees, and actively take public transportation to limit emissions from escaping into the environment.
-Sprint 4: Sportscenter / Yoga 
+    - To be able to provide more hospitals as well as pharmacies for everyone, we need to ensure that both of their incomes are sufficient or
+    increased. To do that, we will encourage people to go to the doctor more when they have physical problems by offering many discounts if
+    they come regularly.
+    - Reducing medical examination and treatment costs for the elderly and children can both increase revenue for the hospital and thereby
+    expand more facilities around while ensuring the health of these two groups of people.
+    - Finally, to keep the environment clean, we should dump trash in the right place, plant many trees, and actively take public transportation
+    to limit emissions from escaping into the environment.
+
+Sprint 4a: Sportscenter / Yoga 
 Planning:
     - For the support center we need to buy all the important gym machinery and some mandatory equipment like the deadlift belt .
     - We need to hire the loader truck that transfers the machinery from the store toward the sportscenter . 
     - We need to install the attendance machine through which everyone enrolled and when he join the gym their presence is recorded .
-    - For Yoga we need a professional trainer and the system of enrollment also has a fixed timing so everyone can do exercises under the guidance of the trainer.
+    - For Yoga we need a professional trainer and the system of enrollment also has a fixed timing so everyone can do exercises under the
+    guidance of the trainer.
 Develop work:
     - Install gym equipment in the center.
     - Test for safety and set up maintenance.
@@ -86,10 +122,30 @@ Develop work:
 Review:
     - The sport center operates well with basic gym equipment.
     - Suggest adding group exercise classes and other sports to create variety.
+
+Sprint 4b: Expand group exercise classes/ Yoga classes
+Planning:
+    - Add more yoga sessions in the morning and evening.
+    - Introduce new martial arts, dance, aerobic classes.
+    - Improve digital enrolment system with mobile app.
+Development work:
+    - Adjust Yoga schedule to avoid conflict with the working hours.
+    - Develop a mobile app for enrollment.
+Review:
+    - New schedules and classes have attracted more participants.
+
+
 Sprint 5: A green environment throughout the 12 weeks
 Planning:
-    - To do all of this, we will mobilize many different resources, including many skilled employees in each field to be able to manage everything. 
+    - To do all of this, we will mobilize many different resources, including many skilled employees in each field to be able to manage
+    everything. 
     - At the same time, we need to ensure enough fuel and materials to use during these 12 weeks, ensuring that no shortcomings occur.
 Development Work: 
-    - In order for everything to go smoothly, each place will have to appoint a certain number of people to work to ensure consistency in work when maintaining this project for 12 weeks, which requires people who can direct and manage a certain number of people so that the project is not delayed.
-    - To be able to have enough materials, each place will have to transport a lot of fuel to be able to provide enough for each aspect such as groceries, pharmacies,... to ensure the project goes smoothly, creating a healthy space as well as comfort for everyone.
+    - In order for everything to go smoothly, each place will have to appoint a certain number of people to work to ensure consistency in
+    work when maintaining this project for 12 weeks, which requires people who can direct and manage a certain number of people so that the
+    project is not delayed.
+    - To be able to have enough materials, each place will have to transport a lot of fuel to be able to provide enough for each aspect such
+    as groceries, pharmacies,... to ensure the project goes smoothly, creating a healthy space as well as comfort for everyone.
+Review:
+    - Resource mobilization is well organized with skilled employees allocated to different areas. 
+    - Fuel and materials were supplied adequately for groceries, healthcares and other facilities.
