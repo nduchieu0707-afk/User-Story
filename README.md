@@ -8,6 +8,7 @@ Write into your project Readme:
 - What did you learn about Scrum as a project management method?
 - What roles are included in Scrum projects? What tasks do these roles entail?
 
+
 - When I observed the project, I found that the group members were very active and responsible for their
   work, making it possible for our group's assignments to be completed on time and completely.
 
