@@ -1,12 +1,12 @@
 Individual Task:
 Scrum
 Write into your project Readme:
-• Observations from the project?
-• What went well, what should have been done differently?
-• How well did your team succeed in estimates and sprint planning?
-• How was your product owner?
-• What did you learn about Scrum as a project management method?
-• What roles are included in Scrum projects? What tasks do these roles entail?
+- Observations from the project?
+- What went well, what should have been done differently?
+- How well did your team succeed in estimates and sprint planning?
+- How was your product owner?
+- What did you learn about Scrum as a project management method?
+- What roles are included in Scrum projects? What tasks do these roles entail?
 
 - When I observed the project, I found that the group members were very active and responsible for their
   work, making it possible for our group's assignments to be completed on time and completely.
